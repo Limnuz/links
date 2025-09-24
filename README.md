@@ -32,3 +32,4 @@ Perfect for creators, developers, and professionals who want a personal landing 
 |---------------------------------------------|
 | [Marko Denic](https://denicmarko.pages.dev) |
 | [Vasanthakumar](https://www.vasan.dev/)     |
+| [Marcelo](limnuz.github.io/links/)          |
